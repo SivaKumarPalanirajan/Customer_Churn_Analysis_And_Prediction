@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis and Prediction
+# Customer Churn Analysis and Prediction
  
 ![alt text](POWERBI_1.png)<br />
 
