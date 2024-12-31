@@ -1,5 +1,6 @@
 Customer Churn Analysis and Prediction
  
+![Uploading POWERBI_1.png…]()
 
 FEW ANALYSIS RESULTS:
  
