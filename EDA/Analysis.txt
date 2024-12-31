@@ -1,7 +1,4 @@
-Customer Churn Analysis and Prediction
- 
-
-FEW ANALYSIS RESULTS:
+# ANALYSIS FROM POWERBI
  
 26.54% of Customers Churned
 67.02% of Customers Stayed
@@ -44,3 +41,4 @@ Highest percentage of customers who churned belonged to Month-to-Month contract 
 Customers who opted Two Year contract had highest probability of staying (96.28%).
 Customers who opted for Month-Month had lowest probability of staying (42.85%).
 So customers who opted for Two Year or One Year contract had more chances of staying compared to Month-to-Month.
+
