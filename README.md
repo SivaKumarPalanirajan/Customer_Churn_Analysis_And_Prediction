@@ -15,7 +15,7 @@
 &emsp;So most revenue was from the customers who stayed followed by customers who churned.<br />
 
 &emsp;The highest number of Customers who Stayed from the Los Angeles (197) and the lowest was from El Sobrante (3)<br />
-&emsp;The highest number of Customers who Churned from the San Diego (185) and the lowest was from El Sobrante, Edwards, Dunlap, Dixon, Cutler, Cool, Echo Lake, Browns Valley (1)<br />
+&emsp;The highest number of Customers who Churned from the San Diego (185) and the lowest was from El Sobrante, Edwards, Dunlap, Dixon, Cutler, Cool, Echo Lake, Browns &emsp;Valley (1)<br />
 &emsp;The highest number of Customers who Joined from the Los Angeles (18) and the lowest was from El Nido, El Dorado Hills, Crows Landing, Colusa (1).<br />
 &emsp;So Customers from Los Angeles were the most probable to stay and also to join whereas Customers from San Diego are more likely to churn compared to the other cities.<br />
 
@@ -41,7 +41,7 @@
 
 &emsp;Highest number of senior citizens opted to stay(55.67%) whereas 41.68% of senior citizens were churned and 2.62% joined.<br />
 
-&emsp;Highest percentage of customers who churned belonged to Month-to-Month contract (88.5%) whereas the lowest percentage of customers who churned belonged to Two Year (2.56%).<br />
+&emsp;Highest percentage of customers who churned belonged to Month-to-Month contract (88.5%) whereas the lowest percentage of customers who churned belonged to Two Year &emsp;(2.56%).<br />
 &emsp;Customers who opted Two Year contract had highest probability of staying (96.28%).<br />
 &emsp;Customers who opted for Month-Month had lowest probability of staying (42.85%).<br />
 &emsp;So customers who opted for Two Year or One Year contract had more chances of staying compared to Month-to-Month.<br />
