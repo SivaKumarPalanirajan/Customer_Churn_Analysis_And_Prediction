@@ -5,6 +5,4 @@ scipy
 matplotlib 
 seaborn 
 optuna
-pylab
-pickle
 streamlit
