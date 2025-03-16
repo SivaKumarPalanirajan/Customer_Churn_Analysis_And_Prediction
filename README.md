@@ -16,9 +16,9 @@
 &emsp;→→Average of Total revenue was lowest and received from Customers who joined (119.35)<br />
 &emsp;→→So most revenue was from the customers who stayed followed by customers who churned.<br />
 
-&emsp;→→The highest number of Customers who Stayed from the Los Angeles (197) whereas the lowest was from Acampo and etc (1)<br />
-&emsp;→→The highest number of Customers who Churned from the San Diego (185) whereas the lowest was from El Sobrante, Edwards, Dunlap, Dixon, Cutler, Cool, Echo Lake, Browns &emsp;Valley and etc (1)<br />
-&emsp;→→The highest number of Customers who Joined from the Los Angeles (18) whereas the lowest was from El Nido, El Dorado Hills, Crows Landing, Colusa and etc (1).<br />
+&emsp;→→The highest number of Customers who Stayed were from Los Angeles (197) whereas the lowest was from Acampo and etc (1)<br />
+&emsp;→→The highest number of Customers who Churned were from San Diego (185) whereas the lowest was from El Sobrante, Edwards, Dunlap, Dixon, Cutler, Cool, Echo Lake, Browns &emsp;Valley and etc (1)<br />
+&emsp;→→The highest number of Customers who Joined were from Los Angeles (18) whereas the lowest was from El Nido, El Dorado Hills, Crows Landing, Colusa and etc (1).<br />
 &emsp;→→So Customers from Los Angeles were the most probable to stay and also to join whereas Customers from San Diego are more likely to churn compared to the other cities.<br />
 
 &emsp;→→Highest number of customers opted for Fiber Optic (43.09%) followed by DSL(23.46%),None(21.67%) and Cable(11.8%).<br />
