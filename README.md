@@ -1,10 +1,14 @@
 # Customer Churn Analysis and Prediction <br />
- 
+
+The primary objective of this project was to provide deep analysis of the data to uncover reasons for a customer to join/churn/stay and build a model which can predict a customer's status. The dataset that was used is Telco customer churn dataset which contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California. It indicates which customers have left, stayed, or signed up for their service.
+
+Utilized multiple features such as number_of_dependents, city, tenure, contract, total_charges,total_long_distance_charges, total_revenue and number_of_referrals. Built a streamlit application for easier access for users.
+
 ![alt text](EDA_1.png)<br />
 ![alt text](EDA_2.png)<br />
 ![alt text](EDA_3.png)<br />
 
-# FEW INSIGHTS FROM ANALYSIS:<br />
+# FEW INSIGHTS FROM ANALYSIS<br />
  
 &emsp;→→26.54% of Customers Churned<br />
 &emsp;→→67.02% of Customers Stayed<br />
@@ -47,3 +51,5 @@
 &emsp;→→Customers who opted Two Year contract had highest probability of staying (96.28%).<br />
 &emsp;→→Customers who opted for Month-Month had lowest probability of staying (42.85%).<br />
 &emsp;→→So customers who opted for Two Year or One Year contract had more chances of staying compared to Month-to-Month.<br />
+
+
