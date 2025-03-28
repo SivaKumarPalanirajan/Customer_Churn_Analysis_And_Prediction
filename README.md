@@ -2,7 +2,7 @@
 
 The primary objective of this project was to provide deep analysis of the data to uncover reasons for a customer to join/churn/stay and build a model which can predict a customer's status. The dataset that was used is Telco customer churn dataset which contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California. It indicates which customers have left, stayed, or signed up for their service.
 
-Utilized multiple features such as number_of_dependents, city, tenure, contract, total_charges,total_long_distance_charges, total_revenue and number_of_referrals. Built a streamlit application for easier access for users.
+I Utilized multiple features such as number_of_dependents, city, tenure, contract, total_charges,total_long_distance_charges, total_revenue and number_of_referrals for predictive modelling. Built a streamlit application for easier access for users.
 
 ![alt text](EDA_1.png)<br />
 ![alt text](EDA_2.png)<br />
